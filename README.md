@@ -3,7 +3,7 @@
   
   <h1>VolleySeats</h1>
   
-  <h3> 🍿 Reserve, Watch, Enjoy 🥤 </h3>
+  <h3>  Reserve ➜ Watch ➜ Enjoy 🍿🥤 </h3> 
  <h4> A user-friendly system for volleyball fans to easily book and secure their seats. Watch your favorite team with just one tap.</h4>
   
   <p><b>IT 2104</b><br>
