@@ -61,7 +61,12 @@ The VolleySeats Reservation System demonstrates the application of several core 
   - In this project, the `ReservationSystem` class abstracts away the complex logic of managing seats and reservations. For example, users interact with high-level methods like `reserve_seat` and `export_to_json`, without needing to understand how the underlying seat reservation logic or data export mechanism works.
 
 ##  👪 Integration of SDG 11: Sustainable Cities and Communities
-The VolleySeats Reservation System aligns with **Sustainable Development Goal 11 (SDG 11): Sustainable Cities and Communities** by:
+<div>
+  <img src="https://github.com/itsianfrane/VolleySeats/blob/main/images/sdg.png" alt="VolleySeats Logo" width="1000" height="200"> 
+
+</div>
+
+- The VolleySeats Reservation System aligns with **Sustainable Development Goal 11 (SDG 11): Sustainable Cities and Communities** by:
 - **Supporting Inclusive Community Engagement**: The project simulates how digital tools can promote accessibility to public events, ensuring more inclusive and safe participation.
 - **Encouraging Efficient Event Management**: By digitizing the reservation process, the system helps envision a more organized and efficient way to handle public gatherings, contributing to reduced physical queues and better crowd management.
 - **Promoting Sustainable Practices**: Digital reservation systems contribute to environmental sustainability by reducing paper usage and enabling better resource allocation.
