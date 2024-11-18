@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/itsianfrane/VolleySeats/blob/main/images/logo.png" alt="VolleySeats Logo" width="240" height="240">
+  <img src="https://github.com/itsianfrane/VolleySeats/blob/main/images/logo.png" alt="VolleySeats Logo" width="400" height="240">
   
   <h1>VolleySeats</h1>
   
@@ -40,7 +40,11 @@ VolleySeats is a Python-based reservation system designed for booking seats at v
 - **User-Friendly Interface**: Clear prompts and structured menu options for seamless navigation.
 
 ## 🧠 Python Concepts Applied
-The VolleySeats Reservation System demonstrates the application of several core Object-Oriented Programming (OOP) principles. Below is a breakdown of how these concepts were applied throughout the project:
+<div>
+  <img src="https://github.com/itsianfrane/VolleySeats/blob/main/images/oop.png" alt="OOP Principles" width="1000" height="400"> 
+</div>
+
+- The VolleySeats Reservation System demonstrates the application of several core Object-Oriented Programming (OOP) principles. Below is a breakdown of how these concepts were applied throughout the project:
 - **Classes and Objects**
   - In Python, classes are blueprints for creating objects. An object is an instance of a class, and it can store both data (attributes) and methods (functions). The project uses multiple classes to represent key entities in the reservation system, such as users, seats, matches, and the reservation system itself.
   - Person Class: Represents a person with attributes like `first_name`, `last_name`, and `contact_number`. This class serves as a base class for the `User` class.
