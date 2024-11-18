@@ -127,12 +127,10 @@ Content: `Match` and `seat details`, including `reservation status` and `user in
 - Real-time Updates: Integrating APIs for live match updates and availability.
 
 ## ❤️ Acknowledgement 
-First and foremost, I would like to express my deepest gratitude to Almighty God for His unending guidance, wisdom, and strength throughout this project. Without His blessings, none of this would have been possible.
+First and foremost, I would like to express my deepest gratitude to **Almighty God** for His unending guidance, wisdom, and strength throughout this project.
 
-To my family, thank you for your unwavering support, love, and encouragement that pushed me to strive for excellence. Your belief in my abilities has been my source of inspiration.
+To my **family** and **family**, thank you for your unwavering support, love, and encouragement that pushed me to strive for excellence. 
 
-To my friends, your understanding, motivation, and cheer kept me going through challenging times. Your presence made the journey lighter and more enjoyable.
+A special thank you goes to my pretty professor, **Ms. Fatima Marie P. Agdon**, for her invaluable guidance, insightful feedback, and continuous encouragement. Your mentorship has been a significant part of my growth, and I am truly grateful for your dedication and support.
 
-A special thank you goes to my pretty professor, Ms. Fatima Marie P. Agdon, for her invaluable guidance, insightful feedback, and continuous encouragement. Your mentorship has been a significant part of my growth, and I am truly grateful for your dedication and support.
-
-To all who have been part of this journey, my heartfelt thanks.
+To **all** who have been part of this journey, my heartfelt thanks.
