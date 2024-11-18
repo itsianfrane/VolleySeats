@@ -34,6 +34,10 @@
 VolleySeats is a Python-based reservation system designed for booking seats at volleyball matches. Users can interact with the system to view match schedules, check available seats, make seat reservations, and confirm bookings. This system was developed with the goal of providing a seamless and efficient way for volleyball fans to secure their seats for upcoming matches, helping to simplify the ticketing process and improve the user experience. The application is particularly aimed at users who wish to attend volleyball games, either for leisure or as part of a larger sports event, offering them a convenient platform to manage their seat reservations. This program simulates a real-life seat reservation experience while demonstrating core programming concepts in Python.
 
 ## 💻 Features
+<div>
+  <img src="https://github.com/itsianfrane/VolleySeats/blob/main/images/features.png" alt="Progam Features" width="1000" height="400"> 
+</div>
+
 - **View Upcoming Matches**: Displays a comprehensive list of volleyball matches with relevant details.
 - **Check Available Seats**: Users can see the seats available for any selected match.
 - **Make Reservations**: Users can reserve seats by providing specific match and seat IDs.
