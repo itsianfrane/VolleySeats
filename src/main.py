@@ -174,7 +174,7 @@ if __name__ == "__main__":
                             print("Invalid input for Match ID or Seat ID. Please enter valid numbers.")
                     elif option == 4:
                         system.export_to_json()  #confirming reservations
-                        print("Reservation confirmed and data exported.")
+                        print("Reservation confirmed.")
                         break  # Exit
                     elif option == 5:
                         print("--------------------------------------------")
