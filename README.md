@@ -1,14 +1,14 @@
 <div align="center">
   <img src="https://github.com/itsianfrane/VolleySeats/blob/main/images/logo.png" alt="VolleySeats Logo" width="400" height="240">
-  
+
   <h1>VolleySeats</h1>
   
   <h3>  Reserve ➜ Watch ➜ Enjoy 🍿🥤 </h3> 
  <h4> A user-friendly system for volleyball fans to easily book and secure their seats. Watch your favorite team with just one tap.</h4>
   
-  <p><b>IT 2104</b><br>
-  <a href="https://github.com/itsianfrane">Frane, Marianito F.</a></p>
   
+  [Marianito F. Frane](https://github.com/itsianfrane)  <br>
+  IT 2104
   <hr class="w-48 h-1 mx-auto my-4 bg-gray-100 border-0 rounded md:my-10 dark:bg-gray-700">
 </div>
 
@@ -31,7 +31,7 @@
 11. [Acknowledgement](#acknowledgement)
 
 ## 🔎 Project Overview
-VolleySeats is a Python-based reservation system designed for booking seats at volleyball matches. Users can interact with the system to view match schedules, check available seats, make seat reservations, and confirm bookings. This system was developed with the goal of providing a seamless and efficient way for volleyball fans to secure their seats for upcoming matches, helping to simplify the ticketing process and improve the user experience. The application is particularly aimed at users who wish to attend volleyball games, either for leisure or as part of a larger sports event, offering them a convenient platform to manage their seat reservations. This program simulates a real-life seat reservation experience while demonstrating core programming concepts in Python.
+> VolleySeats is a Python-based reservation system designed for booking seats at volleyball matches. Users can interact with the system to view match schedules, check available seats, make seat reservations, and confirm bookings. This system was developed with the goal of providing a seamless and efficient way for volleyball fans to secure their seats for upcoming matches, helping to simplify the ticketing process and improve the user experience. The application is particularly aimed at users who wish to attend volleyball games, either for leisure or as part of a larger sports event, offering them a convenient platform to manage their seat reservations. This program simulates a real-life seat reservation experience while demonstrating core programming concepts in Python.
 
 ## 💻 Features
 <div>
