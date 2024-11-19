@@ -3,11 +3,10 @@
 
   <h1>VolleySeats</h1>
   
-  <h3>  Reserve ➜ Watch ➜ Enjoy 🍿🥤 </h3> 
+  <h3>  Reserve → Watch → Enjoy 🍿 </h3> 
  <h4> A user-friendly system for volleyball fans to easily book and secure their seats. Watch your favorite team with just one tap.</h4>
   
-  
-  [Marianito F. Frane](https://github.com/itsianfrane)  <br>
+  [Marianito F. Frane](https://github.com/itsianfrane) <br> 
   IT 2104
   <hr class="w-48 h-1 mx-auto my-4 bg-gray-100 border-0 rounded md:my-10 dark:bg-gray-700">
 </div>
