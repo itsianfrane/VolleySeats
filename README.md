@@ -79,7 +79,7 @@
 - **Promoting Sustainable Practices**: Digital reservation systems contribute to environmental sustainability by reducing paper usage and enabling better resource allocation.
 
 ## ⚙️ System Requirements
-- **Python Version**: Python 3.6 or higher
+- **Python Version**: Python 3 or higher
 - **Libraries**: `json` (part of Python's standard library)
 
 ## 🛠️ Installation and Setup
