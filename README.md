@@ -130,6 +130,8 @@ Content: `Match` and `seat details`, including `reservation status` and `user in
 
 > To my **family** and **family**, thank you for your unwavering support, love, and encouragement that pushed me to strive for excellence. 
 
+> To my **crushiecakes**, thank you for being my daily source of joy and inspiration.
+
 > A special thank you goes to my pretty professor, **Ms. Fatima Marie P. Agdon**, for her invaluable guidance, insightful feedback, and continuous encouragement. Your mentorship has been a significant part of my growth, and I am truly grateful for your dedication and support.
 
 > To **all** who have been part of this journey, my heartfelt thanks.
