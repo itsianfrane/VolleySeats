@@ -12,7 +12,7 @@
 </div>
 
 ## 📚 Table of Contents
-1. [Project Overview](#project-overview)
+1. [🔎 Project Overview](#-project-overview)
 2. [Features](#features)
 3. [Python Concepts Applied](#python-concepts-applied)
 4. [Integration of SDG 11: Sustainable Cities and Communities](#integration-of-sdg-11-sustainable-cities-and-communities)
