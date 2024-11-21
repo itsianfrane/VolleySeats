@@ -11,22 +11,28 @@
   <hr class="w-48 h-1 mx-auto my-4 bg-gray-100 border-0 rounded md:my-10 dark:bg-gray-700">
 </div>
 
-## 📚 Table of Contents
-1. [🔎 Project Overview](#-project-overview)
-2. [💻 Features](#-features)
-3. [🧠 Python Concepts Applied](#-python-concepts-applied)
-4. [👪 Integration of SDG 11: Sustainable Cities and Communities](#-integration-of-sdg-11-sustainable-cities-and-communities)
-5. [⚙️ System Requirements](#-system-requirements)
-6. [🛠️ Installation and Setup](#-installation-and-setup)
-7. [❓ How to Run the Program](#-how-to-run-the-program)
-8. [🗺️ Usage Instructions](#-usage-instructions)
-    - [1. Viewing Matches](#1-viewing-matches)
-    - [2. Viewing Reserved Seats](#2-viewing-reserved-seats)
-    - [3. Reserving a Seat](#3-reserving-a-seat)
-    - [4. Confirming a Reservation](#4-confirming-a-reservation)
-    - [5. Quitting the Program](#5-quitting-the-program)
-9. [🔜 Future Improvements](#-future-improvements)
-10. [❤️ Acknowledgement](#-acknowledgement)
+## 📚 Table of Contents  
+1. [🔎 Project Overview](#-project-overview)  
+2. [💻 Features](#-features)  
+3. [🧠 Python Concepts Applied](#-python-concepts-applied)  
+    - [Classes and Objects](#classes-and-objects)  
+    - [Encapsulation](#encapsulation)  
+    - [Polymorphism](#polymorphism)  
+    - [Inheritance](#inheritance)  
+    - [Abstraction](#abstraction)  
+4. [👪 Integration of SDG 11: Sustainable Cities and Communities](#-integration-of-sdg-11-sustainable-cities-and-communities)  
+5. [⚙️ System Requirements](#%EF%B8%8F-system-requirements)  
+6. [🛠️ Installation and Setup](#%EF%B8%8F-installation-and-setup)  
+7. [❓ How to Run the Program](#-how-to-run-the-program)  
+8. [🗺️ Usage Instructions](#%EF%B8%8F-usage-instructions)  
+    - [1. Viewing Matches](#1-viewing-matches)  
+    - [2. Viewing Reserved Seats](#2-viewing-reserved-seats)  
+    - [3. Reserving a Seat](#3-reserving-a-seat)  
+    - [4. Confirming a Reservation](#4-confirming-a-reservation)  
+    - [5. Quitting the Program](#5-quitting-the-program)  
+9. [🔜 Future Improvements](#-future-improvements)  
+10. [❤️ Acknowledgement](#%EF%B8%8F-acknowledgement)
+
 
 ## 🔎 Project Overview
 > VolleySeats is a Python-based reservation system designed for booking seats at volleyball matches. Users can interact with the system to view match schedules, check available seats, make seat reservations, and confirm bookings. This system was developed with the goal of providing a seamless and efficient way for volleyball fans to secure their seats for upcoming matches, helping to simplify the ticketing process and improve the user experience. The application is particularly aimed at users who wish to attend volleyball games, either for leisure or as part of a larger sports event, offering them a convenient platform to manage their seat reservations. This program simulates a real-life seat reservation experience while demonstrating core programming concepts in Python.
