@@ -4,9 +4,9 @@
   <h1>VolleySeats</h1>
   
   <h3>  Reserve → Watch → Enjoy 🍿 <br>
-  A user-friendly system for volleyball fans to easily book and secure their seats. Watch your favorite team with just one tap. </h3> 
+  A user-friendly system for volleyball fans to easily book and secure their seats. Watch your favorite team with just one tap. 
   
-  [Marianito F. Frane](https://github.com/itsianfrane) <br> 
+ </br>[Marianito F. Frane](https://github.com/itsianfrane) <br> 
   IT 2104
   <hr class="w-48 h-1 mx-auto my-4 bg-gray-100 border-0 rounded md:my-10 dark:bg-gray-700">
 </div>
@@ -126,9 +126,9 @@ File Name: `data.json`
 Content: `Match` and `seat details`, including `reservation status` and `user information`.
 
 ## 🔜 Future Improvements
-- User Authentication: Adding a login system for user accounts.
-- Dynamic Pricing: Implementing variable seat pricing based on location and demand.
-- Real-time Updates: Integrating APIs for live match updates and availability.
+- **User Authentication**: Adding a login system for user accounts.
+- **Dynamic Pricing**: Implementing variable seat pricing based on location and demand.
+- **Real-time Updates**: Integrating APIs for live match updates and availability.
 
 ## ❤️ Acknowledgement 
 > First and foremost, I would like to express my deepest gratitude to **Almighty God** for His unending guidance, wisdom, and strength throughout this project.
