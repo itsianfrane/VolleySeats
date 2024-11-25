@@ -53,22 +53,25 @@
 </div>
 
 - The VolleySeats Reservation System demonstrates the application of several core Object-Oriented Programming (OOP) principles. Below is a breakdown of how these concepts were applied throughout the project:
-- **Classes and Objects**
+### Classes and Objects
   - In Python, classes are blueprints for creating objects. An object is an instance of a class, and it can store both data (attributes) and methods (functions). The project uses multiple classes to represent key entities in the reservation system, such as users, seats, matches, and the reservation system itself.
   - Person Class: Represents a person with attributes like `first_name`, `last_name`, and `contact_number`. This class serves as a base class for the `User` class.
   - User Class: Inherits from the `Person` class. It extends the functionality of the `Person` class by adding a `reserved_seats` list to store all the seats reserved by the user.
   - Match Class: Represents a volleyball match with details such as `match_id`, `teams`, `date`, and `location`. This class contains a method `display_match_details` that encapsulates how match information is displayed to the user.
   - Seat Class: Represents individual seats in the stadium. Each seat has a unique `seat_id`, is associated with a specific `match_id`, and has a price and availability status. The reserve method allows users to reserve the seat.
-- **Encapsulation**
+### Encapsulation
   - Encapsulation refers to bundling data (attributes) and methods that operate on the data into a single unit (class). It also helps in restricting direct access to some of the object's components, which is a mechanism for data protection.
   - In this project, the Match class hides its internal representation of match details by defining a method `display_match_details`. The actual attributes of the match, such as `match_id`, `teams`, `date`, and `location`, are not directly accessed by external code. Instead, the method `display_match_details` provides a controlled way to display this information.
-- **Polymorphism**
+  - 
+### Polymorphism
   - Polymorphism allows objects of different classes to be treated as objects of a common superclass, particularly through method overriding. It enables the same method or function to behave differently based on the object it is acting upon.
   - In this project, polymorphism is demonstrated by the `__str__` method in the `Seat` class. This method is overridden to provide a custom string representation of seat objects, which is different from the default string representation. The output varies depending on whether the seat is reserved or available.
-- **Inheritance**
+  - 
+## Inheritance
   - Inheritance is a fundamental OOP concept that allows one class to inherit the attributes and methods of another class. This helps in reusing code and creating a hierarchy of classes.
   - In this project, the `User` class inherits from the `Person` class. The `User` class inherits basic properties like `first_name`, `last_name`, and `contact_number` from `Person`, while also adding additional functionality for managing seat reservations `(reserved_seats list)`.
-- **Abstraction**
+  - 
+### Abstraction
   - Abstraction is the process of hiding the implementation details and exposing only the essential features of an object. This allows users of the object to interact with it without needing to understand its inner workings.
   - In this project, the `ReservationSystem` class abstracts away the complex logic of managing seats and reservations. For example, users interact with high-level methods like `reserve_seat` and `export_to_json`, without needing to understand how the underlying seat reservation logic or data export mechanism works.
 
