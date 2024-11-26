@@ -136,7 +136,7 @@ Content: `Match` and `seat details`, including `reservation status` and `user in
 ## ❤️ Acknowledgement 
 > First and foremost, I would like to express my deepest gratitude to **Almighty God** for His unending guidance, wisdom, and strength throughout this project.
 
-> To my **family** and **family**, thank you for your unwavering support, love, and encouragement that pushed me to strive for excellence. 
+> To my **family** and **friends**, thank you for your unwavering support, love, and encouragement that pushed me to strive for excellence. 
 
 > To my **crushiecakes**, thank you for being my daily source of joy and inspiration.
 
