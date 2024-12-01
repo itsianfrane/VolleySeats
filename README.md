@@ -64,7 +64,7 @@
   - In this project, the Match class hides its internal representation of match details by defining a method `display_match_details`. The actual attributes of the match, such as `match_id`, `teams`, `date`, and `location`, are not directly accessed by external code. Instead, the method `display_match_details` provides a controlled way to display this information.
     
 <div>
-  <img src="https://github.com/itsianfrane/VolleySeats/blob/main/images/encapsulation.png" alt="encapsulation" width="1000" height="200"> 
+  <img src="https://github.com/itsianfrane/VolleySeats/blob/main/images/encapsulation.png" alt="encapsulation" width="1000" height="300"> 
 
 </div>
 
@@ -73,7 +73,7 @@
   - In this project, polymorphism is demonstrated by the `__str__` method in the `Seat` class. This method is overridden to provide a custom string representation of seat objects, which is different from the default string representation. The output varies depending on whether the seat is reserved or available.
     
 <div>
-  <img src="https://github.com/itsianfrane/VolleySeats/blob/main/images/polymorphism.png" alt="polymorphism" width="700" height="200"> 
+  <img src="https://github.com/itsianfrane/VolleySeats/blob/main/images/polymorphism.png" alt="polymorphism" width="700" height="300"> 
 
 </div>
 
@@ -82,7 +82,7 @@
   - In this project, the `User` class inherits from the `Person` class. The `User` class inherits basic properties like `first_name`, `last_name`, and `contact_number` from `Person`, while also adding additional functionality for managing seat reservations `(reserved_seats list)`.
 
 <div>
-  <img src="https://github.com/itsianfrane/VolleySeats/blob/main/images/inheritance.png" alt="inheritance" width="700" height="200"> 
+  <img src="https://github.com/itsianfrane/VolleySeats/blob/main/images/inheritance.png" alt="inheritance" width="700" height="300"> 
 
 </div>
 
@@ -90,8 +90,8 @@
   - Abstraction is the process of hiding the implementation details and exposing only the essential features of an object. This allows users of the object to interact with it without needing to understand its inner workings.
   - In this project, the `ReservationSystem` class abstracts away the complex logic of managing seats and reservations. For example, users interact with high-level methods like `reserve_seat` and `export_to_json`, without needing to understand how the underlying seat reservation logic or data export mechanism works.
 <div>
-  <img src="https://github.com/itsianfrane/VolleySeats/blob/main/images/abstraction-1.png" alt="abstraction-1" width="700" height="200"> 
-  <img src="https://github.com/itsianfrane/VolleySeats/blob/main/images/abstraction-2.png" alt="abstraction-2" width="700" height="200"> 
+  <img src="https://github.com/itsianfrane/VolleySeats/blob/main/images/abstraction-1.png" alt="abstraction-1" width="700" height="300"> 
+  <img src="https://github.com/itsianfrane/VolleySeats/blob/main/images/abstraction-2.png" alt="abstraction-2" width="700" height="300"> 
 </div>
 
 ##  👪 Integration of SDG 11: Sustainable Cities and Communities
