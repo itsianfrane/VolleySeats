@@ -19,7 +19,7 @@
 5. [⚙️ System Requirements](#%EF%B8%8F-system-requirements)  
 6. [🛠️ Installation and Setup](#%EF%B8%8F-installation-and-setup)  
 7. [❓ How to Run the Program](#-how-to-run-the-program)  
-8. [🗺️ Usage Instructions](#%EF%B8%8F-usage-instructions)    
+8. [🗺️ Usage Instructions](#%EF%B8%8F-usage-instructions)  
 9. [🔜 Future Improvements](#-future-improvements)  
 10. [❤️ Acknowledgement](#%EF%B8%8F-acknowledgement)
 
@@ -83,6 +83,52 @@
   <img src="https://github.com/itsianfrane/VolleySeats/blob/main/images/abstraction-1.png" alt="abstraction-1" width="700" height="300"> 
   <img src="https://github.com/itsianfrane/VolleySeats/blob/main/images/abstraction-2.png" alt="abstraction-2" width="700" height="300"> 
 </div>
+
+### File Handling
+- File handling allows the program to interact with files, either reading from or writing to them. This code uses the json module to export match and seat data into a JSON file, enabling data persistence.
+- The data dictionary is created, containing details about all matches and seats in the system. The json.dump() function is used to serialize this dictionary into a JSON file, formatting it with indentation for readability. This feature ensures that reservation data can be saved and accessed later, even after the program terminates.
+<div>
+  <img src="https://github.com/itsianfrane/VolleySeats/blob/main/images/file-handling.png" alt="file-handling" width="700" height="300"> 
+</div>
+
+### List Comprehensions
+- List comprehensions provide a concise way to create lists by applying an expression to each item in an iterable, optionally filtering items.
+-  The display_seats() method uses a list comprehension to filter available seats for a specific match:
+<div>
+  <img src="https://github.com/itsianfrane/VolleySeats/blob/main/images/list.png" alt="list" width="700" height="300"> 
+</div>
+- This efficiently collects only those seats that match the specified match_id and are still available for reservation. List comprehensions make the code shorter, more readable, and faster compared to traditional for loops with conditional statements.
+
+### Error Handling
+- Error handling ensures that the program can gracefully recover from unexpected input or events without crashing.
+- The try-except blocks are used extensively to catch exceptions like ValueError, which might occur if a user enters non-numeric data where a number is expected.
+  <div>
+  <img src="https://github.com/itsianfrane/VolleySeats/blob/main/images/error-handling.png" alt="error-handling" width="700" height="300"> 
+</div>
+- A general except Exception as e block is also included to catch any unexpected errors and display an informative message to the user. This approach enhances the program's robustness and provides a better user experience by guiding the user back to valid inputs rather than abruptly terminating the program.
+
+### Loops
+- Loops are used to repeatedly execute a block of code until a condition is met.
+For Loops: These are used to iterate over collections like self.matches or range(). For example, adding seats for each match:
+<div>
+  <img src="https://github.com/itsianfrane/VolleySeats/blob/main/images/looping.png" alt="looping" width="700" height="300"> 
+</div>
+This loop ensures that 50 seats are created and associated with each match.
+
+- While Loops: These are used for user interaction, allowing the program to repeatedly display options and accept input until the user chooses to exit.
+<div>
+  <img src="https://github.com/itsianfrane/VolleySeats/blob/main/images/while.png" alt="while" width="700" height="300"> 
+</div>
+This dynamic interaction makes the system user-friendly and flexible.
+
+### Constructor (__init__)
+- The constructor method __init__ is automatically invoked when an object is created from a class. It initializes the object's attributes with values passed during its creation or defaults defined in the constructor.
+- The __init__ method is used in every class to initialize attributes.
+- <div>
+  <img src="https://github.com/itsianfrane/VolleySeats/blob/main/images/constructor.png" alt="=constructor" width="700" height="300"> 
+</div>
+
+This ensures that every Seat object starts with its seat_id, match_id, price, and default values for is_available and reserved_by.
 
 ##  👪 Integration of SDG 11: Sustainable Cities and Communities
 <div>
